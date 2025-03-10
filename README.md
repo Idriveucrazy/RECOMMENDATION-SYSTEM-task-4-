@@ -34,3 +34,4 @@ If a user typed "Shape of you", but the song in the dataset was "Shape Of You (A
 To solve this, we implemented fuzzy matching using the fuzzywuzzy library to find the closest match.
 
 OUTPUT : 
+![Image](https://github.com/user-attachments/assets/b8c3e95a-3b3f-46fa-b93d-7eaee73229c0)
