@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 DESCRIPTION OF TASK : 
- Project Description
+
 This project is a Music Recommendation System built using Collaborative Filtering and Matrix Factorization techniques. The goal of this system is to recommend songs to users based on their listening history and preferences.
 We achieved this by generating a user-song interaction matrix, computing cosine similarity, and recommending similar songs. Additionally, we implemented fuzzy matching to handle misspellings or variations in song names.
 
